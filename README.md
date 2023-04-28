@@ -67,7 +67,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |In Progress|Linear equations & graphs (Unit 4)|
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | In Progress |          |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
@@ -84,7 +84,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    | Skipped | n/a |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        | Skipped | n/a |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | Skipped | n/a |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. | In Progress | Replace all of this section with - [Web Development - Fullstack Bootcamp - The Odin Project - Full Stack Ruby on Rails](./specializations/the_odin_project_ruby.md) |
 
 ### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
 
@@ -92,9 +92,9 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
-| Welcome To Coding                                                                                                                                                     |Complete|<img width="385" alt="Screen Shot 2022-03-28 at 11 39 38 AM" src="https://user-images.githubusercontent.com/96607271/160455622-88af7ba3-1edd-4485-830c-77afbbacbee7.png">|
-| Full Stack Online - Intro to Programming                                                                                                                              |Complete|<img width="396" alt="Screen Shot 2022-05-28 at 10 21 34 PM" src="https://user-images.githubusercontent.com/96607271/170852134-a6003bb2-4e02-4186-9cf8-e8e0ea882704.png">|
-| Full Stack Online - Software Engineering Foundations                                                                                                                  |Complete|<img width="382" alt="Screen Shot 2022-08-16 at 12 27 10 PM" src="https://user-images.githubusercontent.com/96607271/184952231-d673d723-11e5-4b3b-993b-acc35ec67bd4.png">|
+| Welcome To Coding                                                                                                                                                     |            |              |
+| Full Stack Online - Intro to Programming                                                                                                                              |            |              |
+| Full Stack Online - Software Engineering Foundations                                                                                                                  |            |              |
 | Full Stack Online - Ruby                                                                                                                                              |            |              |
 | Full Stack Online - SQL                                                                                                                                               |            |              |
 | Full Stack Online - Rails                                                                                                                                             |            |              |
