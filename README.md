@@ -67,7 +67,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | In Progress | Unit 1 - Lesson 4: Combining like terms |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | In Progress | Unit 2: Solving equations & inequalities - Lesson 1: Linear equations with variables on both sides |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
