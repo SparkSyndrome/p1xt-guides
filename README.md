@@ -67,7 +67,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | In Progress | Unit 2: Solving equations & inequalities - Lesson 2: Linear equations with parentheses |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | In Progress | Unit 2: Solving equations & inequalities - Lesson 3: Analyzing the number of solutions to linear equations |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
