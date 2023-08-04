@@ -67,7 +67,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         | In Progress | Unit 3: Working with units - Lesson 2: Appropriate units |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         | In Progress | Unit 3: Working with units - Lesson 3: Word problems with multiple units |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |        |          |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
